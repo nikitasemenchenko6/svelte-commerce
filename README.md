@@ -16,22 +16,7 @@
 
 ### Svelte Commerce is an advanced Frontend Platform for eCommerce based on Sveltekit
 
-Demo <a href="https://kitcommerce.tech/" target="blank">Kitcommerce.tech</a>
 <br/>
-
-- 🛍️ Attach Svelte store front to any ecommerce API (e.g. <a href="https://misiki.in/"> Misiki SAAS </a>, <a href="https://magento.com/">Magento</a>, <a href="https://www.moltin.com/">Moltin</a>, <a href="https://www.shopify.com/">Shopify</a> ...)
-- 👥 The demo uses litekart as backend
-- 👨🏻‍💻 Its both SSR and SPA
-- 🚀 Superfast
-- 🔗 It is possible to connect with any eCommerce backend if the backend has Rest API
-- 🔓 Svelte Commerce is free and open source. Download and modify it the way you want
-- 🛒 Most of the essential features for ecommerce are already integrated
-- 🕒 Save hours of development time setting up an ecommerce store front
-- 💰 No need to make a big leap or invest huge amount. Just take this opend source project and attach to existing backend.
-- 🐛 If you have discovered a bug or have feature suggestion, feel free to create/join a discussion on Github.
-- 👍 I have been supporting this project alone since 2019. Any little code contribution will be appreciated
-- ✨ Deployment to Netlify or Vercel with zero-configuration
-
 |                                                                                                                                           |                                                                                                                                             |                                                                                                                                           |
 | :---------------------------------------------------------------------------------------------------------------------------------------- | :-----------------------------------------------------------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------------: |
 | <img src="https://res.cloudinary.com/itswadesh/image/upload/c_scale,f_auto,w_250/v1627577152/sveltekit/svelte-commerce-home.png" alt=""/> | <img src="https://res.cloudinary.com/itswadesh/image/upload/c_scale,f_auto,w_250/v1627577152/sveltekit/svelte-commerce-detail.png" alt=""/> | <img src="https://res.cloudinary.com/itswadesh/image/upload/c_scale,f_auto,w_250/v1627577154/sveltekit/svelte-commerce-cart.png" alt=""/> |
