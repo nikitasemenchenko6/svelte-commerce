@@ -17,8 +17,6 @@
 ### Svelte Commerce is an advanced Frontend Platform for eCommerce based on Sveltekit
 
 <br/>
-|                                                                                                                                           |                                                                                                                                             |                                                                                                                                           |
-| :---------------------------------------------------------------------------------------------------------------------------------------- | :-----------------------------------------------------------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------------: |
 | <img src="https://res.cloudinary.com/itswadesh/image/upload/c_scale,f_auto,w_250/v1627577152/sveltekit/svelte-commerce-home.png" alt=""/> | <img src="https://res.cloudinary.com/itswadesh/image/upload/c_scale,f_auto,w_250/v1627577152/sveltekit/svelte-commerce-detail.png" alt=""/> | <img src="https://res.cloudinary.com/itswadesh/image/upload/c_scale,f_auto,w_250/v1627577154/sveltekit/svelte-commerce-cart.png" alt=""/> |
 
 # Latest Updates
@@ -40,7 +38,7 @@
 Install - [NodeJS](https://nodejs.org/en/) - [Yarn](https://yarnpkg.com/en/) - [Git](https://git-scm.com/)
 
 ```
-git clone https://github.com/itswadesh/svelte-commerce.git
+git clone https://github.com/nikitasemenchenko6/svelte-commerce.git
 cd svelte-commerce
 yarn
 yarn dev
@@ -58,7 +56,7 @@ If required change `config/index.ts` according to your requirement
 
 Click on the button to directly deploy to Netlify or Vercel. Zero configuration required.
 
-<a href="https://app.netlify.com/start/deploy?repository=https://github.com/itswadesh/svelte-commerce">
+<a href="https://app.netlify.com/start/deploy?repository=https://github.com/nikitasemenchenko6/svelte-commerce">
 <img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to netlify">
 </a>
 
@@ -87,22 +85,3 @@ Click on the button to directly deploy to Netlify or Vercel. Zero configuration 
 - API calls
 - Skeletons
 - Responsive
-
-# Contributing
-
-If you like the ideas behind Svelte Commerce and want to become a contributor - join github discussions, check the list of the active issues or contact me directly via swadesh@litekart.in
-
-# Thank
-
-A big thank to jycouet for making sucha a wonderful package <a target="_blank" href="https://kitql.vercel.app/">KITQL</a>
-
-# Support me!
-
-Svelte Commerce is and always will be Open Source, released under MIT Licence.
-
-You can support me in various ways:
-
-- <b>Contribute</b> - Support this project by contributing some ideas or directing digging into the source code and improving it.
-- <b>Evangelize</b> - Tweet about the project, take some speaking slot at a tech conference, etc.
-
-<a href='https://ko-fi.com/itswadesh' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=2' border='0' alt='Buy Me a Coffee' /></a>
